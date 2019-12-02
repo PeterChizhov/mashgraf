@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x -g   CMakeFiles/proj5sem.dir/main.cpp.o  -o proj5sem -lGLEW -lglut -lGLU -lGL -lglfw -lm -lSOIL 

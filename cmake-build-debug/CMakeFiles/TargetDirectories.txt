@@ -1,0 +1,3 @@
+/home/zarbog228/mashgraf/proj5sem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zarbog228/mashgraf/proj5sem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zarbog228/mashgraf/proj5sem/cmake-build-debug/CMakeFiles/proj5sem.dir
